@@ -1,16 +1,21 @@
 _repo: Aarimmaiselta-rajalta-Seikkailuromaani_58227
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Korjula, J. V.
     gutenberg_agent_id: '49838'
     url: http://www.gutenberg.org/2009/agents/49838
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Frich, Øvre Richter
     gutenberg_agent_id: '49743'
     url: http://www.gutenberg.org/2009/agents/49743
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58227#Aarimmaiselta-rajalta-Seikkailuromaani
 gutenberg_issued: '2018-11-03'
 gutenberg_type: Text
 identifiers:
